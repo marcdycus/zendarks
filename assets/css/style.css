@@ -305,11 +305,16 @@ footer {
         width: 640px;
    }
 
+   .content {
+       width: 610px;
+        margin: 17px;
+   }
+
 
    header {
     position: static;
     height: 150px;
-    width: 100%;
+    width: 640px;
 }
  
     header .top {
@@ -334,10 +339,6 @@ footer {
 
    .links a {
        width: 20%;
-   }
-
-   .content {
-       margin: 17px;
    }
 
    .myPhoto {
